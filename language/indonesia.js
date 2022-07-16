@@ -581,22 +581,22 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
+saya ${botname}, 
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu XynozBOTZ :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
+├ ${prefix}-
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
-╰❒ ${prefix}donate
+╰❒ ${prefix}sewabot
 
 
 ╭─❒ 「 Owner 」 
@@ -859,7 +859,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}pat
 ├ ${prefix}smug
 ├ ${prefix}bonk
-├ ${prefix}yeet
+├ ${prefix}yeet yu
 ├ ${prefix}blush
 ├ ${prefix}smile
 ├ ${prefix}wave
@@ -1506,19 +1506,18 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
-`
+Silahkan Chat Owner
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+*-------「 SewaBot 」 -------*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
-Berapapun donasi kalian akan sangat berarti 👍
-
+» Ready
+€|Sewa 1 Minggu : Rp.4,500
+€|Sewa 1 Bulan : Rp.13,500
+€|Sewa Permanen Silahkan Chat Owner
+€|Jadi Bot + Own : 12K/Minggu 
+€|Murid Bot : 45K
 Thanks!
 
 Contact person Owner:
@@ -1531,11 +1530,11 @@ exports.info = (prefix) =>{
 	return`╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
 ├ ${prefix}rules
-├ ${prefix}sc
+├ ${prefix}-
 ├ ${prefix}ping
 ├ ${prefix}runtime
 ├ ${prefix}botstatus
-╰❒ ${prefix}donate
+╰❒ ${prefix}sewabot
 `}
 
 exports.ownermenu = (prefix) =>{
