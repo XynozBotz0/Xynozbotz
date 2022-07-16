@@ -587,7 +587,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu XynozBOTZ- :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1506,19 +1506,22 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Silahkan Chat Owner Kak :)
+-
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 」 -------*
+*-------「 DONASI & SEWA BOT」 -------*
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
-Berapapun donasi kalian akan sangat berarti 👍
-
+» Ready 
+-€|Sewa 1 Minggu : 4K
+-€|Sewa 1 Bulan : 10K
+-€|Sewa Permanen Silahkan Chat Owner
+-€|Jadi Bot + Owner : 12K/Minggu (Tinggal Scan)
 Thanks!
 
 Contact person Owner:
